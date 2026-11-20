@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-LABEL maintainer="Satish Swami"
+LABEL maintainer="Anushka Ghule"
 LABEL project="CND Kubernetes Deployment"
 
 COPY index.html /usr/share/nginx/html/index.html
